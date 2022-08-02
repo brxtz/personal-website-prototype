@@ -1,0 +1,60 @@
+.main_title {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.main {
+    background: #ffffff;
+    padding: 30px
+}
+
+.centered_title {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;   
+    border: 1px solid #000000
+}
+
+.aboutme {
+    text-align: left;
+}
+
+#intro {
+    font-size: 20px
+}
+
+strong em {
+    color: red;
+}
+
+.education {
+    background: #f1b900;
+    width: 100%;
+    padding: 10px
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    left: 150px;
+}
+
+.uni1 {
+    text-align: center;
+    font-size: 18px;
+    height: 8px;
+    color: rgb(0, 0, 0)
+}
+
+#uni2 {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(0, 0, 0)
+}
+
+#list {
+    color: rgb(0, 0, 0)
+}
